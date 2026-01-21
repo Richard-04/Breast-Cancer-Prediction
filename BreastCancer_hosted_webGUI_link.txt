@@ -1,0 +1,7 @@
+Name: Richard Testimony Temijuayolo
+Matric Number: 250000395
+Machine Learning Algorithm Used:Logistic Regression
+Model persistence method used: Pickle
+Live URL of the hosted application: https://breast-cancer-prediction-2cg7fva9qizfbadiydpmpy.streamlit.app/
+GitHub repository link: https://github.com/Richard-04/Breast-Cancer-Prediction
+
